@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029391195659",
+    "project_id": "whatbytesassessment",
+    "storage_bucket": "whatbytesassessment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029391195659:android:f044ebaf5ec8109098b10e",
+        "android_client_info": {
+          "package_name": "com.example.whatbytes_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJAeZlnHAx2y77Y9X_IqDl9XvQEt6F7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
